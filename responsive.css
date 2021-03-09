@@ -19,18 +19,27 @@
 @media only screen and(max-width:800px){
     
   .herobg h1 {
-    font-family: 'Raleway', sans-serif;
     float: none;
-    color: #ffff;
     width: 100%;
     font-size: 5.1em;
     letter-spacing: -10px;
-    font-weight: 800;
-    line-height: 75%;
     margin-top:60%;
     text-align: center;
     padding-bottom: 10%;
 }
+    
+    
+}
+
+
+@media only screen and(max-width:500px){
+    
+    
+    .about-text{
+        margin-left: 0px;
+        margin-right: 0px;
+        font-size: 1.1em;
+    }
     
     
 }
