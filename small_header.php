@@ -72,7 +72,7 @@
 
 
         <div class="container">
-            <h1>Game Design For the Future</h1>
+           
 
         </div>
 
