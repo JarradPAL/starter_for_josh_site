@@ -30,7 +30,7 @@
         <div class="row">
             <div>
                 <div class="article-title text-center">
-               <h3 class="text-center article-title "><?php the_field('titleforarticles'); ?></h3>
+               <h3 class="text-center article-title"><?php the_field('titleforarticles'); ?></h3>
 
             </div>
 
