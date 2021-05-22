@@ -76,7 +76,7 @@
 
 
 
-        <div class="container">
+        <div class="container animated fadeInRight">
             <h1>Game Design For the Future</h1>
 
         </div>
